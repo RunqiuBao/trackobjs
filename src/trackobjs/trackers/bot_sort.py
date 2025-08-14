@@ -1,5 +1,3 @@
-# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
-
 from collections import deque
 from typing import Any, List, Optional
 

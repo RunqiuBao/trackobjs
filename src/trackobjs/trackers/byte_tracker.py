@@ -1,5 +1,3 @@
-# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
-
 from typing import Any, List, Optional, Tuple
 
 import numpy
