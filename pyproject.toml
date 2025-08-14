@@ -16,7 +16,8 @@ keywords = ["tracker", "BoT-SORT", "python"]
 dependencies = [
     "numpy",
     "torch",
-    "opencv-python"
+    "opencv-python",
+    "baodebug"
 ]
 
 [project.optional-dependencies]
